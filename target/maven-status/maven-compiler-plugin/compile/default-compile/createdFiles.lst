@@ -1,0 +1,8 @@
+News.class
+Product.class
+SpecialPrice.class
+Sales.class
+Users.class
+Category.class
+Admin.class
+DBConnection.class
